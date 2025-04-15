@@ -1,5 +1,5 @@
 module github.com/brigisroy/go-nilseeker
 
-go 1.23
+go 1.24.1
 
-require golang.org/x/tools v0.18.0
+require golang.org/x/tools v0.32.0
